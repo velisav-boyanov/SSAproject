@@ -1,0 +1,3 @@
+TN(4):Kiro|LN(1):0|EL(76):/Id::int/Name::string/SecondName::string"Kirov"/BirthDate::date“01.05.2025”/
+TN(7):Sampled|LN(1):0|EL(50):/Id::int/Name::string/BirthDate::date“01.01.2022”/
+TN(7):Sampled|LN(1):1|EL(44):/Id::1/Name::“Иван”/BirthDate::“01.01.2022”/
